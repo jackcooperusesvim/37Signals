@@ -2,7 +2,6 @@
 
 
 ## [Homeschool Co-op CRUD App](https://github.com/jackcooperusesvim/Co-op_Project_Summary)
-(Link Here)[]
 This is a CRUD app I am building for a local homeschool Co-op. It is my first program I ever wrote for the web, and it has gone through several iterations. I have laid them out in order so that you can see how I learn and how I work. I am writing the most recent iteration in Rails, so you can also see how I am getting along with that.
 
 ## [Tic-Tac-Toe AI](https://github.com/jackcooperusesvim/tic-tac-toe-AI) - COMPLETE
